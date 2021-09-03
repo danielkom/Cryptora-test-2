@@ -1,0 +1,3 @@
+folders are individual trait collections, python code adds weights, random assorts and layers images ontop of each other.
+
+IPFS images at (please note these are only tests)
